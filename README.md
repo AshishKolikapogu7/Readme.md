@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Ashish Kolikapogu </h1>
 <h3 align="center">Enthusiast in the field of AI and ML</h3>
 
-<img align="right" alt = "Coding" width = "400" src= "https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
+<img align="right" alt = "Coding" width = "400" src= "https:![Uploading image.png…]()
+">
 
 
 - Enhancing My skills in  Machine Learning & Artifical Intelligence
